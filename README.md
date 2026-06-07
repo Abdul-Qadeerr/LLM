@@ -105,4 +105,4 @@ python 03_langchain/simple_chatbot.py
 
 ---
 
-*Learning in public — one commit at a time* 🚀
+
