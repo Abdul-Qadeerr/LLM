@@ -99,8 +99,7 @@ python 03_langchain/simple_chatbot.py
 ## 👤 Author
 
 **Abdul Qadeer**
-- 10Pearls Data Science Intern
-- Sukkur IBA University — BS Computer Science (2026)
+
 - [GitHub](https://github.com/Abdul-Qadeerr) | [LinkedIn](https://linkedin.com/in/aqadeerr)
 
 ---
