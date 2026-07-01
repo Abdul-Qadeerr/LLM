@@ -1,4 +1,4 @@
-# 🤖 LLM Learning Journey
+# 🤖 LLM Learning Journey 
 
 > Personal notes, code experiments, and projects while learning Large Language Models from scratch.
 
